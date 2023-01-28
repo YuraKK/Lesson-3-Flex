@@ -1,0 +1,43 @@
+.father {
+    width: 1500px;
+    height: 1800px;
+    background: silver;
+}
+.block1 {
+    width: 1460px;
+    height: 500px;
+    background: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+
+}
+.container {
+display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.block2 {
+    width: 450px;
+    height: 550px;
+    background: chartreuse;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+
+}
+.block3 {
+    margin: 20px;
+    height: 650px;
+    width: 1460px;
+    background: skyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
