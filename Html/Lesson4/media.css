@@ -1,0 +1,18 @@
+@media screen and (max-width: 650px){
+
+    .block__main {
+        width: 100%;
+        height: 75vh;
+    }
+    .block__b {
+        width: 100%;
+    }
+    .block__f {
+        width: 100%;
+
+    }
+    .block__c, .block__d, .block__e {
+        width: 28.5%;
+        margin: 15px;
+    }
+}
