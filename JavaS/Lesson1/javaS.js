@@ -70,27 +70,3 @@
 // console.log(beka);
 // console.log(bek);
 // console.log(be);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
